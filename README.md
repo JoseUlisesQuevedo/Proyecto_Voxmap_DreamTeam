@@ -20,8 +20,8 @@ Con los _updates_ completos, se realiza una serie de tablas que alimentan a Tabl
 
 ## Equipo
 - Josué Chicatti
-- Sebastian Dulong (@dulongski)
+- Sebastian Dulong (**@dulongski**)
 - Guillermo Naranjo
 - Ana Pizaña
-- Ulises Quevedo (@JoseUlisesQuevedo)
-- Julieta Rivero (@Ju-Riv)
+- Ulises Quevedo (**@JoseUlisesQuevedo**)
+- Julieta Rivero (**@Ju-Riv**)
