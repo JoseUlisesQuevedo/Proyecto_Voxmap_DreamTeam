@@ -12,7 +12,7 @@ El _update_ consiste en una serie de preguntas sobre el hospital en el que traba
 - Respecto a los protocolos, se pregunta sobre la implementación de campañas preventivas, procesos de reporte, y su capacidad de realizar pruebas para la detección del COVID-19.
 - Respecto al personal, se pregunta la cantidad de médicos y paramédicos disponibles.
 - Respecto a los casos, se pregunta la cantidad de positivos, muertes, recuperados, etc.
-Junto con cada update, los encuestadores indican si el cuestionario se llenó correcta y cabalmente o no, y en consecuencia, el tipo de acción a seguir. Estos marcadores se utilizan para generar un reporte para que los encuestadores tomen la acción necesaria.
+Junto con cada update, los encuestadores indican si el cuestionario se llenó correcta y cabalmente, y en consecuencia, el tipo de acción a seguir. Estos marcadores se utilizan para generar un reporte para que los encuestadores tomen la acción necesaria.
 
 Se realiza un reporte diario sobre estos _status_ (el número de hospitales encuestados, las preguntas no contestadas, etc.) para poder resolver el problema presentado.
 
@@ -20,8 +20,8 @@ Con los _updates_ completos, se realiza una serie de tablas que alimentan a Tabl
 
 ## Equipo
 - Josué Chicatti
-- Sebastian Dulong (**@dulongski**)
+- Sebastian Dulong ([**@dulongski**](https://github.com/dulongski))
 - Guillermo Naranjo
 - Ana Pizaña
-- Ulises Quevedo (**@JoseUlisesQuevedo**)
-- Julieta Rivero (**@Ju-Riv**)
+- Ulises Quevedo ([**@JoseUlisesQuevedo**](https://github.com/JoseUlisesQuevedo))
+- Julieta Rivero ([**@Ju-Riv**](https://github.com/Ju-Riv))
