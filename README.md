@@ -1,5 +1,5 @@
 # Proyecto VoxMapp Dream Team
-##User story
+## User story
 La compañía [VoxMapp](http://voxmapp.com) diseña y crea soluciones tecnológicas para la recolección y análisis de datos. Dentro de sus múltiples proyectos, recaban datos de hospitales en varios países para ofrecer información puntual y pertinente respecto al manejo del COVID-19.
 
 La compañía tiene un _baseline_ de hospitales con datos estáticos (como el nombre del hospital, la ubicación geográfica, y el tipo de hospital).
@@ -16,7 +16,7 @@ Se realiza un reporte diario sobre estos _status_ (el número de hospitales encu
 
 Con los _updates_ completos, se realiza una serie de tablas que alimentan a Tableau Public, con el cual se hacen tableros analíticos que muestrean información relevante y pertinente a las personas que toman decisiones en VoxMapp.
 
-##Equipo
+## Equipo
 - Josué Chicatti
 - Sebastian Dulong
 - Guillermo Naranjo
