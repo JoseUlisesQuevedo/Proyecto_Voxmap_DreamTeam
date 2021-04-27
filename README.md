@@ -1,6 +1,6 @@
 # Proyecto VoxMapp Dream Team
 ## User story
-![VoxMapp](https://postimg.cc/BLP4xqjP)
+![VoxMapp](https://imgur.com/gG68PvJ.png)
 
 La compañía [VoxMapp](http://voxmapp.com) diseña y crea soluciones tecnológicas para la recolección y análisis de datos. Dentro de sus múltiples proyectos, recaban datos de hospitales en varios países para ofrecer información puntual y pertinente respecto al manejo del COVID-19.
 
