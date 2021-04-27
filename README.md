@@ -25,3 +25,5 @@ Con los _updates_ completos, se realiza una serie de tablas que alimentan a Tabl
 - Ana Pizaña
 - Ulises Quevedo ([**@JoseUlisesQuevedo**](https://github.com/JoseUlisesQuevedo))
 - Julieta Rivero ([**@Ju-Riv**](https://github.com/Ju-Riv))
+
+Profesor: Jesús Ramos ([**@xuxoramos**](https://github.com/xuxoramos))
