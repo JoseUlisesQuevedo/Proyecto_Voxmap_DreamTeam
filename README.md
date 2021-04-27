@@ -16,7 +16,7 @@ Junto con cada update, los encuestadores indican si el cuestionario se llenó co
 
 Se realiza un reporte diario sobre estos _status_ (el número de hospitales encuestados, las preguntas no contestadas, etc.) para poder resolver el problema presentado.
 
-Con los _updates_ completos, se realiza una serie de tablas que alimentan a Tableau Public, con el cual se hacen tableros analíticos que muestrean información relevante y pertinente a las personas que toman decisiones en VoxMapp.
+Con los _updates_ completos, se realiza una serie de tablas que alimentan a Tableau Public, con el cual se hacen tableros analíticos que muestran información relevante y pertinente a las personas que toman decisiones en VoxMapp.
 
 ## Equipo
 - Josué Chicatti
